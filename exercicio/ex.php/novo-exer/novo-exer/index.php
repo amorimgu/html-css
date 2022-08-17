@@ -28,7 +28,7 @@
                 <textarea name="mensagem"></textarea>
                 <br>
                 <input type="submit" name="Enviar">
-                <br>
+                <input type="reset" value="Limpar">
             </form>
         </fieldset>
     </main>
